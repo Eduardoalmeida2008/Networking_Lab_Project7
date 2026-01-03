@@ -55,7 +55,7 @@ Zones are visually represented in Packet Tracer using **colored transparent area
 ### Devices
 - 2 Routers (R1, R2)
 - 4 Access Switches
-- 12 PCs (2 per VLAN)
+- 18 PCs (3 per VLAN)
 
 ### Design Decisions
 - R1 hosts all DHCP pools (centralized DHCP)
