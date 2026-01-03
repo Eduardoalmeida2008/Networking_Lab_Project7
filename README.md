@@ -115,23 +115,30 @@ All configurations behave as expected.
 All screenshots must follow this naming convention:
 
 1. 01_topology_overview.png
-2. 02_zone_visual_separation.png
-3. 03_vlan_ip_plan.png
-4. 04_switch1_vlan_config.png
-5. 05_switch2_vlan_config.png
-6. 06_switch3_vlan_config.png
-7. 07_switch4_vlan_config.png
-8. 08_switch_trunk_ports.png
-9. 09_router1_subinterfaces.png
-10. 10_router2_subinterfaces.png
-11. 11_dhcp_pools_r1.png
-12. 12_ip_helper_r2.png
-13. 13_acl_configuration.png
-14. 14_acl_applied_interfaces.png
-15. 15_ping_users_to_servers.png
-16. 16_ping_users_to_management_blocked.png
-17. 17_dhcp_binding_verification.png
-
+2. 02_switch1_vlans
+3. 03_switch2_vlans
+4. 04_switch3_vlans
+5. 05_switch4_vlans
+6. 06_switch1_ports
+7. 07_switch1_trunk
+8. 08_switch2_ports
+9. 09_switch2_trunk
+10. 10_switch3_ports
+11. 11_switch3_trunk
+12. 12_switch4_ports
+13. 13_switch4_trunk
+14. 14_router1_subinterfaces
+15. 15_router2_subinterfaces
+16. 16_router1_dhcp_pools
+17. 17_acl_configuration
+18. 18_acl_interfaces
+19. 19_ping_test_vlan10
+20. 20_ping_test_vlan20
+21. 21_ping_test_vlan30
+22. 22_ping_test_vlan40
+23. 23_ping_test_vlan50
+24. 24_ping_test_vlan60
+25. 25_dhcp_binding
 ---
 
 ## Key Learnings
